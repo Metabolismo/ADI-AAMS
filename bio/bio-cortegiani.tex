@@ -1,0 +1,44 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[italian]{babel}
+\usepackage{Alegreya}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+
+% Impostazioni tipografiche
+\onehalfspacing
+\setlength{\parindent}{0pt} % Nessuna indentazione
+\setlength{\parskip}{1em} % Spazio tra paragrafi
+
+% Rimuovi numerazione pagine
+\pagestyle{empty}
+
+% Comando per il nome (più grande e in grassetto)
+\newcommand{\bioname}[1]{%
+    \begin{center}
+        {\fontsize{18pt}{21.6pt}\selectfont\textbf{#1}}
+    \end{center}
+    \vspace{0.3em}
+}
+
+% Comando per l'affiliazione
+\newcommand{\bioaffiliation}[1]{%
+    \begin{center}
+        {\fontsize{12pt}{14.4pt}\selectfont\textit{#1}}
+    \end{center}
+    \vspace{1.5em}
+}
+
+\begin{document}
+
+% Nome autore
+\bioname{Alice Cortegiani}
+
+% Affiliazione
+\bioaffiliation{LEAP Laboratorio ElettroAcustico Permanente}
+
+% Corpo della biografia (inserire qui il testo di 150 parole)
+Si diploma in Clarinetto e Musica da Camera presso il Conservatorio di Roma e si perfeziona presso l’Accademia Nazionale di Santa Cecilia con A. Carbonare. La sua attività concertistica l’ha condotta a esibirsi in prestigiose sedi quali Teatro Arsenale per La Biennale di Venezia, Cappella Paolina del Palazzo del Quirinale, Auditorium Parco della Musica di Roma, Teatro dell’Opera di Roma e Auditorio Nacional de Musica de Madrid. La sua attitudine è rivolta verso la ricerca artistica musicale attraverso collaborazioni con compositori e laboratori di sperimentazione, interrogando il ruolo dell’interprete come ponte tra tradizione e con- temporaneità. Questa ricerca confluisce naturalmente nella sua attività didattica, dove trasmette tanto la padronanza del repertorio classico quanto l’apertura verso altri linguaggi.
+
+\end{document}

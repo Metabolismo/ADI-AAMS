@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1751313445.19811 "2025-tlg.tex" "2025-tlg.pdf" "2025-tlg" 1751313446.01039 2
+  "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1742685315 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1742685315 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1742685315 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "/usr/share/texmf-dist/tex/latex/base/fontenc.sty" 1742685315 5275 0d62fb62162c7ab056e941ef18c5076d ""
+  "/usr/share/texmf-dist/tex/latex/base/inputenc.sty" 1742685315 5048 0270515b828149155424600fd2d58ac5 ""
+  "/usr/share/texmf-dist/tex/latex/base/size11.clo" 1742685315 8464 e73911cdcc738e82d6adccd28e654bb1 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1742685315 42087 b0f9697c952c8f5a8eede4134282cb0d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1747090873 2734270 383a89beda734156db3a79acafa8016a ""
+  "2025-tlg.aux" 1751313445.18873 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "2025-tlg.tex" 1751313443.93208 4796 d09ab37e73517b465410337639fc8085 ""
+  "alegreya.sty" 0 -1 0 ""
+  (generated)
+  "2025-tlg.aux"
+  "2025-tlg.log"
+  "2025-tlg.pdf"
+  (rewritten before read)

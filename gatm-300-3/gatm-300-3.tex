@@ -1,0 +1,86 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[italian]{babel}
+\usepackage{times} % Times New Roman
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+% Impostazioni per il GATM Abstract Book
+\onehalfspacing % Interlinea 1.5
+\setlength{\parindent}{0.5cm} % Indentazione paragrafi 0.5cm
+
+% Comando per le affiliazioni con apici
+\newcommand{\affil}[1]{\textsuperscript{#1}}
+
+% Comando per il titolo personalizzato
+\newcommand{\abstracttitle}[1]{%
+    \begin{center}
+        {\fontsize{16pt}{19.2pt}\selectfont\textbf{#1}}
+    \end{center}
+    \vspace{0.5em}
+}
+
+% Comando per gli autori
+\newcommand{\abstractauthors}[1]{%
+    \begin{center}
+        {\fontsize{14pt}{16.8pt}\selectfont #1}
+    \end{center}
+    \vspace{0.3em}
+}
+
+% Comando per le affiliazioni
+\newcommand{\abstractaffiliations}[1]{%
+    \begin{center}
+        {\fontsize{10pt}{12pt}\selectfont #1}
+    \end{center}
+    \vspace{1em}
+}
+
+% Comando per la bibliografia GATM style
+\newcommand{\gatabase}{%
+    \vspace{1em}
+    \begin{center}
+        \textbf{\textsc{Bibliografia}}
+    \end{center}
+    \vspace{0.5em}
+}
+
+\begin{document}
+
+% TITOLO (16pt, grassetto, centrato)
+\abstracttitle{Analisi interpretativa: \emph{Luz} (da "Descrizione del corpo")}
+
+% AUTORI (14pt, centrato)
+\abstractauthors{Alice Cortegiani\affil{1}}
+
+% AFFILIAZIONI (10pt, centrato)
+\abstractaffiliations{\affil{1}LEAP Laboratorio ElettroAcustico Permanente, Roma}
+
+% CORPO DEL TESTO (11pt, interlinea 1.5, indentazione 0.5cm)
+Il presente contributo affronta la separazione epistemologica tra analisi musicale e prassi interpretativa. Partendo dalla domanda: \emph{come può l'interprete sviluppare una metodologia analitica che emerga dalla relazione diretta con la materia in vibrazione, anziché precederla?}, la ricerca propone il concetto di \emph{analisi interpretativa} applicata all'opera \emph{Luz} (da "Descrizione del corpo") di Domenico Guaccero. Il problema centrale riguarda la sistematizzazione di una coscienza interpretativa che sia simultaneamente prassi riflessiva e azione trasformativa, fondamentale per quella letteratura la cui prassi interpretativa è da ri-attivare.
+
+\emph{Luz} articola melodie di Timbri di 24 tipologie ed espone la ricerca timbrica alla relazione con il silenzio mediante l'introduzione di un silenzio \emph{udibile animato}. Nel metodo proposto, \emph{timbro}, \emph{silenzio} e \emph{grafia musicale} fondono il nucleo centrale della spirale speculativa di esperienza e conoscenza, alimentando l'individuazione di un nuovo interprete. La ricerca contemporanea ha prodotto contributi nell'esplorazione timbrica e nell'interpretazione come co-creazione (Guaccero, 1970), tuttavia manca una sistematizzazione metodologica che integri queste prospettive nella prassi interpretativa tradizionale. L'atto interpretativo si scolpisce dalla sala da concerto, superando la separazione tra analisi preliminare ed esecuzione attraverso un processo conoscitivo che si compie nell'atto interpretativo stesso (Hatten, 2021). La dimensione teorica si fonda su una fenomenologia dell'interpretazione (Rognoni, 1966) che integri il concetto di "misura" come \emph{metron} emergente (Cacciari, 1996).
+
+La ricerca mira a: 1) ricongiungersi agli studi musicologici per ricostituire una prassi interpretativa per l'opera di Guaccero; 2) sistematizzare l'analisi interpretativa come metodologia trasferibile; 3) fornire strumenti pedagogici che superino la dicotomia teoria/prassi. L'analisi interpretativa propone un processo dove più dimensioni si co-costituiscono reciprocamente: una grammatica dell'ascolto analitico emergente dalla mediazione tecnologica che include mappature timbriche e sistemi di notazione delle relazioni tra gesto e suono.
+
+L'obiettivo finale è contribuire a un'\emph{archeologia del presente musicale}, dove l'interprete media tra tradizione e contemporaneità, sviluppando strumenti che trasformino i paradigmi didattici e colmino il divario tra ricerca extra-accademica e formazione istituzionale.
+
+% BIBLIOGRAFIA (stile APA, come richiesto dal template)
+\gatabase
+
+Cacciari, M. (1996). \emph{Metafisica concreta}. Adelphi.
+
+Guaccero, D. (1970). Improvvisazione e composizione. \emph{Nuova Rivista Musicale Italiana}, \emph{4}(3), 445--462.
+
+Hatten, R. S. (2021). A speculative hermeneutics for music analysis and interpretation. \emph{The Musical Quarterly}, \emph{104}(1-2), 12--32.
+
+Rognoni, L. (1966). \emph{Fenomenologia della musica radicale}. Laterza.
+
+Smalley, D. (1997). Spectromorphology: explaining sound-shapes. \emph{Organised Sound}, \emph{2}(2), 107--126.
+
+\end{document}

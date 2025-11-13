@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  22 JUN 2025 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  23 JUN 2025 00:08
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**2024-gs-adonis-template7.tex
-(./2024-gs-adonis-template7.tex
+**2025-gatm-500-3.tex
+(./2025-gatm-500-3.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -134,6 +133,26 @@ LaTeX Info: Redefining \cite on input line 694.
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
 LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input
  line 16.
 
@@ -153,8 +172,8 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box52
 )
-(./2024-gs-adonis-template7.aux)
-\openout1 = `2024-gs-adonis-template7.aux'.
+(./2025-gatm-500-3.aux)
+\openout1 = `2025-gatm-500-3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -209,6 +228,28 @@ LaTeX Info: Redefining \it@ccap on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen153
+\scratchbox=\box53
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen154
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <17.28> not availab
 le
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
@@ -220,6 +261,12 @@ le
 (Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
 ine 18.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 17.28pt on input line 18.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/it' in size <17.28> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/bold/it' tried instead on input 
+line 18.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/it' will be
 (Font)              scaled to size 17.28pt on input line 18.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <12> not available
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
@@ -233,20 +280,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
 
+
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <10.95> not availa
 ble
 (Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
-ut line 20.
+ut line 21.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 20.
+(Font)              scaled to size 10.95pt on input line 21.
 
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/alegreya/algr_fbntfe.enc}] (./2024-gs-adonis-template7.bbl
+/enc/dvips/alegreya/algr_fbntfe.enc}]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <10.95> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 46.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 46.
+ (./2025-gatm-500-3.bbl
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not availabl
 e
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
@@ -259,36 +314,30 @@ e
 ine 1.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-
-Underfull \hbox (badness 1859) in paragraph at lines 20--24
-[]\T1/Alegreya-LF/regular/n/10.95 Maurice Merleau-Ponty.  \T1/Alegreya-LF/regul
-ar/it/10.95 Fe-no-me-no-lo-gia del-la per-ce-zio-ne\T1/Alegreya-LF/regular/n/10
-.95 .  Bom-pia-ni, Mi-la-no, 2003.  ed. orig.
- []
-
 )
 
-[2] (./2024-gs-adonis-template7.aux)
+[2] (./2025-gatm-500-3.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3946 strings out of 474439
- 66566 string characters out of 5747774
- 474791 words of memory out of 5000000
- 26975 multiletter control sequences out of 15000+600000
- 659603 words of font info for 59 fonts, out of 8000000 for 9000
+ 4735 strings out of 474439
+ 77810 string characters out of 5747774
+ 489748 words of memory out of 5000000
+ 27731 multiletter control sequences out of 15000+600000
+ 691512 words of font info for 63 fonts, out of 8000000 for 9000
  417 hyphenation exceptions out of 8191
- 57i,6n,80p,749b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,80p,1322b,207s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/sh
-are/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/share/texm
-f-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb>
-Output written on 2024-gs-adonis-template7.pdf (2 pages, 222592 bytes).
+are/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-BoldItalic.pfb></usr/share/
+texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/share/texmf-di
+st/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb>
+Output written on 2025-gatm-500-3.pdf (2 pages, 202526 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  22 JUN 2025 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  22 JUN 2025 13:02
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**2024-gs-adonis-template7.tex
-(./2024-gs-adonis-template7.tex
+**2025-gatm-500-2.tex
+(./2025-gatm-500-2.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -153,8 +152,8 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box52
 )
-(./2024-gs-adonis-template7.aux)
-\openout1 = `2024-gs-adonis-template7.aux'.
+(./2025-gatm-500-2.aux)
+\openout1 = `2025-gatm-500-2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -242,50 +241,102 @@ ut line 20.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
 (Font)              scaled to size 10.95pt on input line 20.
 
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <10.95> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 24.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 24.
+
+Package natbib Warning: Citation `bachmann1993letteratura' on page 1 undefined 
+on input line 24.
+
+
+Package natbib Warning: Citation `magnusson2009hermeneutic' on page 1 undefined
+ on input line 24.
+
+
+Package natbib Warning: Citation `lupone2003feedback' on page 1 undefined on in
+put line 24.
+
+
+Package natbib Warning: Citation `guaccero1970improvvisazione' on page 1 undefi
+ned on input line 24.
+
+
+Package natbib Warning: Citation `smalley1997spectromorphology' on page 1 undef
+ined on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Package natbib Warning: Citation `hatten2021speculative' on page 1 undefined on
+ input line 28.
+
+
+Package natbib Warning: Citation `rognoni1966fenomenologia' on page 1 undefined
+ on input line 28.
+
+
+Package natbib Warning: Citation `ihde2007listening' on page 1 undefined on inp
+ut line 28.
+
+
+Package natbib Warning: Citation `merleau-ponty1945phenomenologie' on page 1 un
+defined on input line 28.
+
+
+Package natbib Warning: Citation `cacciari1996metafisica' on page 1 undefined o
+n input line 28.
+
+
+Overfull \hbox (1.37167pt too wide) in paragraph at lines 31--32
+[]\T1/Alegreya-LF/regular/n/10.95 L'\T1/Alegreya-LF/regular/it/10.95 analisi in
+-ter-pre-ta-ti-va \T1/Alegreya-LF/regular/n/10.95 pro-po-ne un pro-ces-so me-to
+-do-lo-gi-co uni-ta-rio do-ve tre di-men-sio-ni si co-costituiscono
+ []
+
+
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/alegreya/algr_fbntfe.enc}] (./2024-gs-adonis-template7.bbl
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not availabl
-e
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
-t line 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not availabl
-e
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
-ine 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
+/enc/dvips/alegreya/algr_fbntfe.enc}]
 
-Underfull \hbox (badness 1859) in paragraph at lines 20--24
-[]\T1/Alegreya-LF/regular/n/10.95 Maurice Merleau-Ponty.  \T1/Alegreya-LF/regul
-ar/it/10.95 Fe-no-me-no-lo-gia del-la per-ce-zio-ne\T1/Alegreya-LF/regular/n/10
-.95 .  Bom-pia-ni, Mi-la-no, 2003.  ed. orig.
- []
+Package natbib Warning: Citation `agamben2008apparatus' on page 2 undefined on 
+input line 36.
 
-)
+No file 2025-gatm-500-2.bbl.
 
-[2] (./2024-gs-adonis-template7.aux)
+Package natbib Warning: There were undefined citations.
+
+
+
+[2] (./2025-gatm-500-2.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3946 strings out of 474439
- 66566 string characters out of 5747774
- 474791 words of memory out of 5000000
- 26975 multiletter control sequences out of 15000+600000
- 659603 words of font info for 59 fonts, out of 8000000 for 9000
+ 3908 strings out of 474439
+ 65343 string characters out of 5747774
+ 475562 words of memory out of 5000000
+ 26940 multiletter control sequences out of 15000+600000
+ 646844 words of font info for 58 fonts, out of 8000000 for 9000
  417 hyphenation exceptions out of 8191
- 57i,6n,80p,749b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,80p,1543b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/sh
 are/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/share/texm
 f-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb>
-Output written on 2024-gs-adonis-template7.pdf (2 pages, 222592 bytes).
+Output written on 2025-gatm-500-2.pdf (2 pages, 214228 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream

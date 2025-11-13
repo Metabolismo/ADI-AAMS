@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex 2024-gs-adonis-template7"] 1750464941.60449 "2024-gs-adonis-template7.aux" "2024-gs-adonis-template7.bbl" "2024-gs-adonis-template7" 1750465891.12275 0
+["bibtex 2024-gs-adonis-template7"] 1750464941.60449 "2024-gs-adonis-template7.aux" "2024-gs-adonis-template7.bbl" "2024-gs-adonis-template7" 1750588583.01247 0
   "./references.bib" 1750464873.28632 6581 dbe54678512ee731fb16c5fe483d4f8d ""
   "/usr/share/texmf-dist/bibtex/bst/base/unsrt.bst" 1742685315 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "2024-gs-adonis-template7.aux" 1750465890.09924 1043 610fddd9451a7d7fe5422abe305d5b4c "pdflatex"
+  "2024-gs-adonis-template7.aux" 1750588582.05545 1043 610fddd9451a7d7fe5422abe305d5b4c "pdflatex"
   (generated)
   "2024-gs-adonis-template7.bbl"
   "2024-gs-adonis-template7.blg"
   (rewritten before read)
-["pdflatex"] 1750465888.35034 "2024-gs-adonis-template7.tex" "2024-gs-adonis-template7.pdf" "2024-gs-adonis-template7" 1750465891.12373 0
+["pdflatex"] 1750588580.27259 "2024-gs-adonis-template7.tex" "2024-gs-adonis-template7.pdf" "2024-gs-adonis-template7" 1750588583.01346 0
   "/usr/share/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc" 1742685315 3049 a675c44c7907aaf4f31736e9df7e1563 ""
   "/usr/share/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1--base.tfm" 1742685315 1792 b93ee3473bbaef2a636394b5490e3648 ""
   "/usr/share/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Bold-lf-t1.tfm" 1742685315 60328 98c8318960ea1d3ac348d58d7ea1931d ""
@@ -64,9 +64,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1742685315 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1747090889 5346630 a08ad37c28a9151e542a9ff326093bd2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1747090873 2734270 383a89beda734156db3a79acafa8016a ""
-  "2024-gs-adonis-template7.aux" 1750465890.09924 1043 610fddd9451a7d7fe5422abe305d5b4c "pdflatex"
+  "2024-gs-adonis-template7.aux" 1750588582.05545 1043 610fddd9451a7d7fe5422abe305d5b4c "pdflatex"
   "2024-gs-adonis-template7.bbl" 1750464941.89162 1857 6cd1e60bb9622baa92f9303b2a7da726 "bibtex 2024-gs-adonis-template7"
-  "2024-gs-adonis-template7.tex" 1750465887.44596 6592 1cc66ed09f9c6cef9cea61f3973d0eef ""
+  "2024-gs-adonis-template7.tex" 1750586070.65807 6592 1cc66ed09f9c6cef9cea61f3973d0eef ""
   (generated)
   "2024-gs-adonis-template7.aux"
   "2024-gs-adonis-template7.log"

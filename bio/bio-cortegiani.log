@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  22 JUN 2025 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.13)  23 JUN 2025 00:27
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**2024-gs-adonis-template7.tex
-(./2024-gs-adonis-template7.tex
+**bio-cortegiani.tex
+(./bio-cortegiani.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -123,19 +122,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip51
-\bibsep=\skip52
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count280
-)
-(/usr/share/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input
- line 16.
+ line 33.
 
 (/usr/share/texmf-dist/tex/latex/alegreya/T1Alegreya-LF.fd
 File: T1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegreya-L
@@ -144,51 +132,50 @@ F.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10.95> not availab
 le
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
-t line 16.
+t line 33.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 16.
+(Font)              scaled to size 10.95pt on input line 33.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count281
+\l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box52
 )
-(./2024-gs-adonis-template7.aux)
-\openout1 = `2024-gs-adonis-template7.aux'.
+No file bio-cortegiani.aux.
+\openout1 = `bio-cortegiani.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Info: Redefining \it@ocap on input line 16.
-LaTeX Info: Redefining \it@ccap on input line 16.
-\c@mv@tabular=\count282
-\c@mv@boldtabular=\count283
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Info: Redefining \it@ocap on input line 33.
+LaTeX Info: Redefining \it@ccap on input line 33.
+\c@mv@tabular=\count281
+\c@mv@boldtabular=\count282
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=472.03123pt
-* \textheight=652.70622pt
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-38.1381pt
@@ -196,7 +183,7 @@ LaTeX Info: Redefining \it@ccap on input line 16.
 * \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -209,86 +196,53 @@ LaTeX Info: Redefining \it@ccap on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <17.28> not availab
-le
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <18> not available
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
-t line 18.
+t line 36.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <17.28> not availab
-le
+(Font)              scaled to size 18.0pt on input line 36.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <18> not available
 (Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
-ine 18.
+ine 36.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 18.
+(Font)              scaled to size 18.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <12> not available
 (Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
-t line 18.
+t line 39.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              scaled to size 12.0pt on input line 39.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <12> not available
 
-LaTeX Warning: No \author given.
-
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <10.95> not availa
-ble
 (Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
-ut line 20.
+ut line 39.
 LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 20.
+(Font)              scaled to size 12.0pt on input line 39.
 
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/alegreya/algr_fbntfe.enc}] (./2024-gs-adonis-template7.bbl
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not availabl
-e
-(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
-t line 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not availabl
-e
-(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
-ine 1.
-LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
-
-Underfull \hbox (badness 1859) in paragraph at lines 20--24
-[]\T1/Alegreya-LF/regular/n/10.95 Maurice Merleau-Ponty.  \T1/Alegreya-LF/regul
-ar/it/10.95 Fe-no-me-no-lo-gia del-la per-ce-zio-ne\T1/Alegreya-LF/regular/n/10
-.95 .  Bom-pia-ni, Mi-la-no, 2003.  ed. orig.
- []
-
-)
-
-[2] (./2024-gs-adonis-template7.aux)
+/enc/dvips/alegreya/algr_fbntfe.enc}] (./bio-cortegiani.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3946 strings out of 474439
- 66566 string characters out of 5747774
- 474791 words of memory out of 5000000
- 26975 multiletter control sequences out of 15000+600000
- 659603 words of font info for 59 fonts, out of 8000000 for 9000
+ 3450 strings out of 474439
+ 59475 string characters out of 5747774
+ 460956 words of memory out of 5000000
+ 26502 multiletter control sequences out of 15000+600000
+ 628214 words of font info for 46 fonts, out of 8000000 for 9000
  417 hyphenation exceptions out of 8191
- 57i,6n,80p,749b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,80p,878b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/sh
 are/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/share/texm
 f-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb>
-Output written on 2024-gs-adonis-template7.pdf (2 pages, 222592 bytes).
+Output written on bio-cortegiani.pdf (1 page, 75915 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
